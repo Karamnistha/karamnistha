@@ -1,6 +1,3 @@
-
-
--->
 # 👋 Hi, I'm Karamnistha!  
 
 ### Business Analyst | Data Enthusiast | Problem Solver  

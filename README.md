@@ -9,9 +9,13 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 ## 🔧 Skills & Tools  
 
 - **SQL**
-  
+ 1. Ecommerce Data Analysis
 
-Excel | VBA  
+- **Excel | VBA**
+1. Annuity Illustration Tool
+2. WixSin Company Revenue Analysis 
+
+ 
 - **BI & Visualization**
 
 Power BI | Tableau

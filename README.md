@@ -12,8 +12,6 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 1. Ecommerce Data Analysis
 
 - **Excel | VBA**
-1. Annuity Illustration Tool
-2. WixSin Company Revenue Analysis 
 
 - **Power BI | Tableau**
 

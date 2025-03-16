@@ -6,7 +6,7 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 
 ---
 
-## 🔧 Skills & Tools  
+## 🔧 Skills & Tools | Projects 
 
 - **SQL**
  1. Ecommerce Data Analysis

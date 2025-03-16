@@ -16,7 +16,21 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 2. WixSin Company Revenue Analysis 
 
 - **Power BI | Tableau**
-1. 
+1. Amazon Ecommerce Data Analysis
+2. Airplane Crashes and Fatalities Analysis
+3. Supply Chain Data Analysis
+4. Women Clothing E-commerce Data Analysis
+5. TATA Online Retail Data Analysis
+6. Car Insurance Policies Analysis
+7. Digital Marketing Analysis
+8. Global Debt Analysis
+9. Global Mental Health Disorder Analysis
+10. Health Insurance Analysis
+11. Hotel Bookings Analysis
+12. Supply Chain Green House Emissiom Analysis
+13. U.S. International Air Traffic Data Analysis
+14. Investment Preference Analysis
+15. Retail Sales and Customer Demographic Analysis
 
 - **Project Management**: Jira | Confluence | Agile  
 

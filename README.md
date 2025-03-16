@@ -8,8 +8,8 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 
 ## 🔧 Skills & Tools  
 
-- **Languages & Databases**:
-- SQL 
+- **SQL**
+  
 
 Excel | VBA  
 - **BI & Visualization**

@@ -8,8 +8,13 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 
 ## 🔧 Skills & Tools  
 
-- **Languages & Databases**: SQL | VBA  
-- **BI & Visualization**: Power BI | Tableau | Excel  
+- **Languages & Databases**: SQL 
+
+Excel | VBA  
+- **BI & Visualization**:
+
+Power BI | Tableau
+
 - **Project Management**: Jira | Confluence | Agile  
 
 ---

@@ -9,16 +9,14 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 ## 🔧 Skills & Tools | Projects 
 
 - **SQL**
- 1. Ecommerce Data Analysis
+1. Ecommerce Data Analysis
 
 - **Excel | VBA**
 1. Annuity Illustration Tool
 2. WixSin Company Revenue Analysis 
 
- 
-- **BI & Visualization**
-
-Power BI | Tableau
+- **Power BI | Tableau**
+1. 
 
 - **Project Management**: Jira | Confluence | Agile  
 

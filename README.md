@@ -25,8 +25,8 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 📌 *Analyzed Retail Dataset to identify KPI such as Units Sold, Average Price and top selling products.*  
 **Tech Stack**: Power BI
 
-### 🛍️ [Retail Sales and Customer Demographic Analysis]
-📌 *Analyzed Retail Dataset to identify KPI such as Units Sold, Average Price and top selling products.*  
+### 🛍️ [DataCo Supply Chain Analysis]
+📌 *Conducted an in-depth analysis of DataCo's global e-commerce operations, focusing on supply chain efficiency, product performance, and business trends.*  
 **Tech Stack**: Power BI
 
 ---

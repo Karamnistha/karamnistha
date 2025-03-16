@@ -22,6 +22,7 @@ I'm a **Business Analyst** with a background in **Computer Engineering** and exp
 **Tech Stack**: Excel | VBA
 
 ### 🛍️ [Retail Sales and Customer Demographic Analysis]
+📌 *Analyzed Retail Dataset to identify KPI such as Units Sold, Average Price and top selling products. 
 **Tech Stack**: Power BI
 
 ---
